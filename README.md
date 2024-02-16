@@ -1,0 +1,1 @@
+Simple recipe site for first Odin Project
